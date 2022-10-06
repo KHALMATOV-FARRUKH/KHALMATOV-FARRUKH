@@ -45,31 +45,19 @@ ___
 
 ___
 
+
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KHALMATOV-FARRUKH&theme=buefy&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C&border_radius=5&date_format=j%20M%5B%20Y%5D&%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0=AFAFAF)](https://git.io/streak-stats)
-
-___
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1500&color=000000&center=&vCenter=&width=525&lines=The+programmer+is+fed+by+the+hands...+and+%E2%98%95" alt="Typing SVG" /></a>
-
-___
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHALMATOV-FARRUKH&show_icons=true&theme=algolia)
-
-___
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?myquote=Time+does+not+like+when+his+waste&author=Henry+Ford&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KHALMATOV-FARRUKH&theme=neon-dark&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C&border_radius=5&date_format=j%20M%5B%20Y%5D&%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0=AFAFAF)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHALMATOV-FARRUKH&show_icons=true&theme=algolia)
 
 ___
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="вклад github сетка змеиная анимация" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="вклад github сетка змеиная анимация" style="max-width: 100%;"></a>
 
+___
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.png?raw=true"><img src="https://github.com/naveenjujaray/naveenjujaray/raw/master/cropped.png?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator." style="max-width: 100%;"></a></p>
 
+___
 
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1500&color=00BFFF&center=&vCenter=&width=525&lines=The+programmer+is+fed+by+the+hands...+and+%E2%98%95" alt="Typing SVG" /></a>
