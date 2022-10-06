@@ -20,13 +20,13 @@ ___
 ___
 
  <a href="https://t.me/KhalmatovFM"> 
-  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=white" alt="KhalmatovFM"> </a>
+  <img src="https://img.shields.io/badge/Telegram-DCDCDC?style=for-the-badge&logo=Telegram&logoColor=white" alt="KhalmatovFM"> </a>
 
 <a href="https://www.instagram.com/khalmatov.farrukh/"> 
- <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=WhatsApp&logoColor=green" alt="KhalmatovFM"> </a>
+ <img src="https://img.shields.io/badge/WhatsApp-DCDCDC?style=for-the-badge&logo=WhatsApp&logoColor=green" alt="KhalmatovFM"> </a>
 
 <a href="https://www.instagram.com/khalmatov.farrukh/"> 
- <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink" alt="KhalmatovFM"> </a>
+ <img src="https://img.shields.io/badge/Instagram-DCDCDC?style=for-the-badge&logo=Instagram&logoColor=pink" alt="KhalmatovFM"> </a>
  
 ___
 
