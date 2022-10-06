@@ -20,13 +20,13 @@ ___
 ___
 
  <a href="https://t.me/KhalmatovFM"> 
-  <img src="https://img.shields.io/badge/Telegram-DCDCDC?style=for-the-badge&logo=Telegram&logoColor=white" alt="KhalmatovFM"> </a>
+  <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=black" alt="KhalmatovFM"> </a>
 
 <a href="https://www.instagram.com/khalmatov.farrukh/"> 
- <img src="https://img.shields.io/badge/WhatsApp-DCDCDC?style=for-the-badge&logo=WhatsApp&logoColor=green" alt="KhalmatovFM"> </a>
+ <img src="https://img.shields.io/badge/WhatsApp-32CD32?style=for-the-badge&logo=WhatsApp&logoColor=black" alt="KhalmatovFM"> </a>
 
 <a href="https://www.instagram.com/khalmatov.farrukh/"> 
- <img src="https://img.shields.io/badge/Instagram-DCDCDC?style=for-the-badge&logo=Instagram&logoColor=pink" alt="KhalmatovFM"> </a>
+ <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=Instagram&logoColor=black" alt="KhalmatovFM"> </a>
  
 ___
 
@@ -46,14 +46,12 @@ ___
 ___
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KHALMATOV-FARRUKH&theme=github-dark-blue&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KHALMATOV-FARRUKH&theme=buefy&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C&border_radius=5&date_format=j%20M%5B%20Y%5D&%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0=AFAFAF)](https://git.io/streak-stats)
 
 ___
 
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1500&center=%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&vCenter=%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&width=530&lines=The+programmer+is+fed+by+the+hands...and++%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1500&color=000000&center=&vCenter=&width=525&lines=The+programmer+is+fed+by+the+hands...+and+%E2%98%95" alt="Typing SVG" /></a>
 
 ___
 
@@ -71,3 +69,7 @@ ___
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.png?raw=true"><img src="https://github.com/naveenjujaray/naveenjujaray/raw/master/cropped.png?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator." style="max-width: 100%;"></a></p>
+
+
+
+
