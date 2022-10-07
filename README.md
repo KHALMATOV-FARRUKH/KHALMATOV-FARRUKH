@@ -1,12 +1,15 @@
-<h1>
-  Hi there, I'm <a href="https://github.com/KHALMATOV-FARRUKH" >Farrukh</a>
-  <img src="https://media.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif" width="100px"/>
+<div>
+  <h1>
+   <img src="https://user-images.githubusercontent.com/115084566/194579594-2ff03286-e62c-4be9-af2e-138021d3ee6e.png" width="100px"/>
+    Hi there, I'm <a href="https://github.com/KHALMATOV-FARRUKH" >Farrukh</a>
+    <img src="https://media.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif" width="100px"/>
   <img src="https://media3.giphy.com/media/LPzYWANeDHAu3wQzVp/giphy.gif" width="100px"/>
-</h1>
+  </h1>
+</div>
 
 ___
 
-### <h3 align="left">I'm a novice programmer, I'm 31 years old:</h3>
+### <h3>I'm a novice programmer, I'm 31 years old:</h3>
 
 ___
 
@@ -29,7 +32,6 @@ ___
  
 ___
 
-
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
@@ -44,24 +46,19 @@ ___
 
 ___
 
-
 ### :fire: My Stats :
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KHALMATOV-FARRUKH&theme=neon-dark&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C&border_radius=5&date_format=j%20M%5B%20Y%5D&%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0=AFAFAF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KHALMATOV-FARRUKH&theme=algolia&hide_border=%D0%BB%D0%BE%D0%B6%D1%8C"/>
   <img src="https://github-readme-stats.vercel.app/api?username=KHALMATOV-FARRUKH&show_icons=true&theme=algolia"/>
 </div>
 
 ___
 
-
-[ЗМЕЙКА]<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="вклад github сетка змеиная анимация" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="вклад github сетка змеиная анимация" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only"><img src="https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="вклад github сетка змеиная анимация" style="max-width: 100%;"></a>
 
 ___
 
-[БАННЕР]<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.png?raw=true"><img src="https://github.com/naveenjujaray/naveenjujaray/raw/master/cropped.png?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator." style="max-width: 100%;"></a></p>
-
-___
-
-[ПРОГРАММИСТА КОРМЯТ РУКИ]<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1500&color=00BFFF&center=&vCenter=&width=525&lines=The+programmer+is+fed+by+the+hands...+and+%E2%98%95" alt="Typing SVG" /></a>
+<h1 align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4999&pause=1500&color=00BFFF&center=&vCenter=&width=530&lines=The+programmer+is+fed+by+the+hands...+and+%E2%98%95" alt="Typing SVG" /></h1>
