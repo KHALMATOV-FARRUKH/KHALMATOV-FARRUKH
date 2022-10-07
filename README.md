@@ -1,8 +1,7 @@
 <h1>
-   
   Hi there, I'm <a href="https://github.com/KHALMATOV-FARRUKH" >Farrukh</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
- 
+  <img src="https://media.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif" width="100px"/>
+  <img src="https://media3.giphy.com/media/LPzYWANeDHAu3wQzVp/giphy.gif" width="100px"/>
 </h1>
 
 ___
